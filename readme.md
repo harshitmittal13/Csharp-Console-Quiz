@@ -14,19 +14,13 @@ C#
 
 🚀 How to Run
 # Clone the repository
-'''
 git clone https://github.com/harshitmittal_13/Csharp-Console-Quiz.git
-'''
 
 # Navigate to project folder
-'''
 cd Csharp-Console-Quiz
-'''
 
 # Run the project
-'''
 dotnet run
-'''
 
 🖥️ Usage
 Run the program  
