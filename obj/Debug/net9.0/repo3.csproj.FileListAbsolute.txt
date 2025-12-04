@@ -12,3 +12,4 @@ C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\refi
 C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.pdb
 C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.genruntimeconfig.cache
 C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\ref\repo3.dll
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.sourcelink.json
