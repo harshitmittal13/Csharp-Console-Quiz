@@ -1,0 +1,14 @@
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\bin\Debug\net9.0\repo3.exe
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\bin\Debug\net9.0\repo3.deps.json
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\bin\Debug\net9.0\repo3.runtimeconfig.json
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\bin\Debug\net9.0\repo3.dll
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\bin\Debug\net9.0\repo3.pdb
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.AssemblyInfoInputs.cache
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.AssemblyInfo.cs
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.csproj.CoreCompileInputs.cache
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.dll
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\refint\repo3.dll
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.pdb
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\repo3.genruntimeconfig.cache
+C:\Users\shubh\OneDrive\Desktop\new plan\github repo\repo3\obj\Debug\net9.0\ref\repo3.dll
