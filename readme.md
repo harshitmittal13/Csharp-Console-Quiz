@@ -15,12 +15,12 @@ C#
 🚀 How to Run
 # Clone the repository
 '''
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/harshitmittal_13/Csharp-Console-Quiz.git
 '''
 
 # Navigate to project folder
 '''
-cd <repo-name>
+cd Csharp-Console-Quiz
 '''
 
 # Run the project
